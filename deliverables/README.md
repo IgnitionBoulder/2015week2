@@ -11,17 +11,18 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br>
-What is IRB?<br>
-What are Objects?<br>
-What are Methods?<br>
-What are Classes?<br>
-What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
-What are hashes?<br>
-What is a library?<br>
-What is a gem?
+**What is an "interpreted" language?**<br>
+
+**What is IRB?**<br>
+**What are Objects?**<br>
+**What are Methods?**<br>
+**What are Classes?**<br>
+**What are Blocks?**<br>
+**What is an Array?**<br>
+**What is an Iterator?**<br>
+**What are hashes?**<br>
+**What is a library?**<br>
+**What is a gem?**
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
