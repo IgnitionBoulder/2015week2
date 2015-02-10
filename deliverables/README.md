@@ -24,17 +24,28 @@ What are Objects?
 Most everything in Ruby is an Object. All objects have an identity; they can also hold state and manifest behaviour by responding to messages. <br>  
 
 What are Methods?  
-<br>
-What are Classes?<br>
-What are Blocks?<br>
+They are very similar to functions in any other programming language. Ruby methods are used to bundle one or more repeatable statements into a single unit. Method names should begin with a lowercase letter. If you begin a method name with an uppercase letter, Ruby might think that it is a constant and hence can parse the call incorrectly. <br>
+
+What are Classes?    
+A class is the blueprint from which individual objects are created. It is also an object-oriented term.<br>
+
+What are Blocks?  
+A block consists of chunks of code which You assign a name to, The code in the block is always enclosed within braces ({}).and they are always invoked from a function with the same name as that of the block. You invoke a block by using the yield statement.<br>
+
 What is an Array?  
 They are simple lists, they store their information in a sequence.<br>
 
-What is an Iterator?  
-<br>
-What are hashes?<br>
-What is a library?<br>
-What is a gem?
+What is an Iterator?    
+Iterators are nothing but methods supported by collections, return all the elements of a collection, one after the other. <br>
+
+What are hashes?    
+A Hash is a collection of key-value pairs and the indexing is done via arbitrary keys of any object type, not an integer index.<br>
+
+What is a library?    
+The main place where libraries are hosted is RubyGems.org, providing Ruby libs as gems.<br>
+
+What is a gem?  
+A gem is a  a self-contained format That can be distributed by RubyGems.
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
