@@ -12,17 +12,38 @@ Sign Up for Cloud9 and create a basic Rails project.
 ####Required
 
 **What is an "interpreted" language?**<br>
+An interpreted language is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instrucitons. 
 
 **What is IRB?**<br>
+Interactive Ruby Shell, or interactive Ruby files
+
 **What are Objects?**<br>
+Objects are individual components or instances of a class
+
 **What are Methods?**<br>
+Methods are used to bundle one or more repeatable statements into a single unit.
+
 **What are Classes?**<br>
+A class is a blueprint from which individual objects are created. 
+
 **What are Blocks?**<br>
+A block consists of chunks of  code enclosed within braces. 
+
 **What is an Array?**<br>
+An array is an ordered, integer-indexed collection of any object. Each element in an array is associated with and referred to by an index.
+
 **What is an Iterator?**<br>
+Iterators are methods supported by collections, which are objects that store a group of data members.
+
 **What are hashes?**<br>
+A hash is a collection of key-value pairs. A hash is similar to an array, except that indexing is done via arbitrary keys of object type, not an integer index.
+
 **What is a library?**<br>
+a collection of implementations of behavior, written in terms of a language, that has a well defined interface by which behavior is invoked.
+
 **What is a gem?**
+Gems contain package information along with files to install
+
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
