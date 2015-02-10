@@ -41,7 +41,7 @@ A hash is a collection of key-value pairs. A hash is similar to an array, except
 **What is a library?**<br>
 a collection of implementations of behavior, written in terms of a language, that has a well defined interface by which behavior is invoked.
 
-**What is a gem?**
+**What is a gem?**<br>
 Gems contain package information along with files to install
 
 
