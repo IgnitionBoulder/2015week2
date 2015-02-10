@@ -41,7 +41,10 @@ Sign Up for Cloud9 and create a basic Rails project.
 **What is a library?**  The main place where libraries are hosted is RubyGems.org, providing Ruby libs as gems. You may browse the website directly, or use the gem command. Using gem search -r , you can inspect RubyGems' repository. For instance, gem search -r rails will return a list of Rails-related gems.<br>
 
 
-**What is a gem?** It is a way to transport ruby files. 
+**What is a gem?** It is a way to transport ruby files. The gem is where the files are stored. 
+
+
+
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
