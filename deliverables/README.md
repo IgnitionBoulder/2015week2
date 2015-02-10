@@ -27,8 +27,11 @@ What are Methods?
 <br>
 What are Classes?<br>
 What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
+What is an Array?  
+They are simple lists, they store their information in a sequence.<br>
+
+What is an Iterator?  
+<br>
 What are hashes?<br>
 What is a library?<br>
 What is a gem?
