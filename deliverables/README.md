@@ -12,8 +12,13 @@ Sign Up for Cloud9 and create a basic Rails project.
 ####Required
 
 What is an "interpreted" language?<br>
-What is IRB?<br>
+An interpreted language is a language that requires an interpreter to be executed  
+
+What is IRB?<br> 
+IRB is a read-eval-print-loop (REPL) for programming in the language Ruby. IRB stands for interactive ruby and can be accessed throgh the Terminal.
+
 What are Objects?<br>
+Everything in Ruby is an object, and every expression in Ruby evaluates to an object
 What are Methods?<br>
 What are Classes?<br>
 What are Blocks?<br>
