@@ -14,10 +14,17 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br>
-What is IRB?<br>
-What are Objects?<br>
-What are Methods?<br>
+What is an "interpreted" language?  
+It is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instructions. The interpreter executes the program directly, translating each statement into a sequence of one or more subroutines already compiled into machine code.<br>
+
+What is IRB?  
+Interactive Ruby Shell (IRB or irb) is a REPL for programming in the object-oriented scripting language Ruby. The abbreviation irb comes from the fact that the filename extension for Ruby is ".rb", although interactive Ruby files do not have an extension of ".irb".<br>
+
+What are Objects?  
+Most everything in Ruby is an Object. All objects have an identity; they can also hold state and manifest behaviour by responding to messages. <br>  
+
+What are Methods?  
+<br>
 What are Classes?<br>
 What are Blocks?<br>
 What is an Array?<br>
