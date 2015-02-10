@@ -56,8 +56,9 @@ You should also be able to use **$ which git** and see the directory    where yo
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br>
-What is IRB?<br>
+What is an "interpreted" language?<br> 
+Language that is not read by the native machine, but instead by some other program (still in the language of the native machine)
+What is IRB?<br>Interactive Ruby Shell allows you to interactively test the command to see output.
 What are Objects?<br>
 What are Methods?<br>
 What are Classes?<br>
