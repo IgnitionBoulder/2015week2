@@ -2,7 +2,9 @@
 ###Intro to the Back End
  **Required**
  
-What is the difference between front- and back-end development?
+What is the difference between front- and back-end development?  
+Front-end development is the part of the code that is visible to the user and interacts with them. The back-end development is the part of the code that is never visible to the user and interacts with the server. 
+
 Why do you need to install Ruby but not HTML/CSS?
 
 Read the [intro to back end on the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-back-end) description, and the [What is: Back-end web development](http://blog.generalassemb.ly/what-is-back-end-web-development/) blog post.
