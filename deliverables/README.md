@@ -49,6 +49,8 @@ A gem is a  a self-contained format That can be distributed by RubyGems.
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
+My Code School Link:   https://www.codeschool.com/account?__utma=1.438278617.1423533714.1423607869.1423630333.3&__utmb=1.6.10.1423630333&__utmc=1&__utmx=-&__utmz=1.1423533714.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=199311790
+
 Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
 
 ###Weekly Project
