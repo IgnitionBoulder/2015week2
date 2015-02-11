@@ -7,3 +7,4 @@ class Calculator
     num_1 - num_2
   end
 end
+ 
