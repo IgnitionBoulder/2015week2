@@ -1,3 +1,3 @@
 def array_of_fixnums?(array)
-  # Write your code here
+   input_array.map {|element| element.length}
 end
