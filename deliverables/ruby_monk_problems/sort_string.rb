@@ -1,3 +1,3 @@
 def sort_string(string)
-  # your code here
+  string.split(' ').sort{|x, y|x.length<=>y.length}.join(' ')
 end
