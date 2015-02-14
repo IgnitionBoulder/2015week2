@@ -14,28 +14,38 @@ https://ide.c9.io/brookhernandez/ruby_project
 ####Required
 
 What is an "interpreted" language?<br>
-<br>
 An interpreted language is a programming language for which most of its implementations execute instructions directly, without previously compiling a program into machine-language instructions.<br>
+<br>
 What is IRB?<br>
 Interactive Ruby Shell (IRB or irb) is a REPL for programming in the object-oriented scripting language Ruby. The abbreviation irb comes from the fact that the filename extension for Ruby is ".rb", although interactive Ruby files do not have an extension of ".irb".<br>
+<br>
 What are Objects?<br>
 Objects are instances of the class.<br>
+<br>
 What are Methods?<br>
 Ruby methods are very similar to functions in any other programming language. Ruby methods are used to bundle one or more repeatable statements into a single unit.<br>
+<br>
 What are Classes?<br>
 A class is the blueprint from which individual objects are created.<br>
+<br>
 What are Blocks?<br>
 A block is code that you can store in a variable like any other object and run on demand.<br>
+<br>
 What is an Array?<br>
 An array is a list of items in order.<br>
+<br>
 What is an Iterator?<br>
 An iterator is something that does the same thing many times such as a loop.<br>
+<br>
 What are hashes?<br>
 Hashes are similar to arrays in that they are indexed collection of object references.<br>
+<br>
 What is a library?<br>
 Sources used to write Ruby code.<br>
+<br>
 What is a gem?<br>
 RubyGems is a package manager for the Ruby programming language that provides a standard format for distributing Ruby programs and libraries (in a self-contained format called a "gem"), a tool designed to easily manage the installation of gems, and a server for distributing them.<br>
+<br>
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
