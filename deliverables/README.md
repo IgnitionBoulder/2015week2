@@ -12,20 +12,35 @@ Sign Up for Cloud9 and create a basic Rails project.
 ####Required
 
 What is an "interpreted" language?<br>
+<br>
 What is IRB?<br>
+<br>
 What are Objects?<br>
+<br>
 What are Methods?<br>
+<br>
 What are Classes?<br>
+<br>
 What are Blocks?<br>
+<br>
 What is an Array?<br>
+<br>
 What is an Iterator?<br>
+<br>
 What are hashes?<br>
+<br>
 What is a library?<br>
-What is a gem?
+<br>
+What is a gem?<br>
+<br>
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
+https://www.codeschool.com/users/1287015  
+
 Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
+
+https://rubymonk.com/u/brook-hernandez  
 
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/9-calculator)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
