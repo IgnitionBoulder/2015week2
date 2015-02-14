@@ -1,3 +1,3 @@
 def find_frequency(sentence, word)
-    sentence.split(" ").count(word)
+    sentence.downcase.split.count(word.downcase)
 end
