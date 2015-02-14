@@ -22,5 +22,5 @@ class Color
 
   def enough_contrast?(another_color)
     brightness_difference(another_color) > 125 && hue_difference(another_color) > 500
-  end
+  end 
 end
