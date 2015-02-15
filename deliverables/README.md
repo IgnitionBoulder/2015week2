@@ -1,8 +1,9 @@
 ##Week 2: Introduction to Ruby
 ###Intro to the Back End
 ####Required
-What is the difference between front- and back-end development?<br>
-Why do you need to install Ruby but not HTML/CSS?
+**What is the difference between front- and back-end development?**<br>
+Front-end development is the part of the code that is  usually visible to the user in the form of an interface. The main purpose of the front-end code is to interact with user, as well as present the data in a well-defined style and matter. Front-end developers use coding languages like HTML, CSS, and Javascript. These developers code what the designer creates.<br> The Back-end developer will then make that page or application functional. Meaning while the fron-end interacts with the user, the back-end interacts with the server. Back-end code uses languages like PHP, Ruby, Python, or .Net. This connects it with the database to look up, save or change data and return it back to the user in form of front-end code.
+**Why do you need to install Ruby but not HTML/CSS?**<br>
 
 Read the [intro to back end on the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-back-end) description, and the [What is: Back-end web development](http://blog.generalassemb.ly/what-is-back-end-web-development/) blog post.
 
