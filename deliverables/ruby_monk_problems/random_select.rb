@@ -1,3 +1,5 @@
 def random_select(array, n)
-  # your code here
+ n.times
+ solution=[]
+ solution<< array[rand(array.length)]
 end
