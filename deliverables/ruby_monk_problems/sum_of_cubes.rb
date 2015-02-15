@@ -1,3 +1,9 @@
 def sum_of_cubes(a, b)
-  (a..b).inject(0) { |sum, x| sum += (x*x*x) }
+  sum = b**3
+  b -= 1
+  while b >= a
+    sum += b**3
+    b -= 1
+  end
+  return sum
 end
