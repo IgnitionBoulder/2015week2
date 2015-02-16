@@ -6,7 +6,7 @@ Why do you need to install Ruby but not HTML/CSS?
 
 Read the [intro to back end on the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-back-end) description, and the [What is: Back-end web development](http://blog.generalassemb.ly/what-is-back-end-web-development/) blog post.
 
-Sign Up for Cloud9 and create a basic Rails project.
+Sign Up for Cloud9 and create a basic Rails project.<br>I signed up for Cloud9 on January 28, 2015 and created a basic Rails project on February 9, 2015.<br>
 
 ###Intro to Ruby
 ####Required
