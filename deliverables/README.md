@@ -52,6 +52,7 @@ Do the challenges at http://tryruby.org/levels/1/challenges/0.
 My Code School Link:   https://www.codeschool.com/account?__utma=1.438278617.1423533714.1423607869.1423630333.3&__utmb=1.6.10.1423630333&__utmc=1&__utmx=-&__utmz=1.1423533714.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)&__utmv=-&__utmk=199311790
 
 Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
+My Ruby Account https://rubymonk.com/account
 
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/9-calculator)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
