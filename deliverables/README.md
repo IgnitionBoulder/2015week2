@@ -33,9 +33,9 @@ You need to complete all the problems on the RubyMonk ([starting with this one](
 Put each problem solution into the appropriate file in `ruby_monk_problems`<br>I have added each problem solution into the appropriate file in my deliverables/ruby_monk_problems folder.<br>
 
 ####Optional & Resources
- - Read and complete the [Ruby in 100 minutes guide](http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)<br>I read and completed the Ruby in 100 minutes guide on February 14, 2015.<br>
- - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)<br>I read through the Ruby beginners guide on February 12, 2015.<br>
+ - Read and complete the [Ruby in 100 minutes guide](http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)<br>I read and completed the Ruby in 100 minutes guide on February 14, 2015.<br><br>
+ - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)<br>I read through the Ruby beginners guide on February 12, 2015.<br><br>
  - Do the first Ruby exercise (Bob) on [Exercism.io](http://exercism.io/) and respond to any
    feedback you receieve.  Provide a link to your submission on
-   Exercism.<br>I have visited the Exercism.io website but am still in the process of getting everything installed and so I have not yet been able to do the (Bob) exercise yet.<br>
+   Exercism.<br>I have visited the Exercism.io website but am still in the process of getting everything installed and so I have not been able to do the (Bob) exercise yet.<br>
 
