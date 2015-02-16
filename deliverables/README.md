@@ -17,8 +17,8 @@ What are Objects?<br>
 What are Methods?<br>
 What are Classes?<br>
 What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
+What is an Array?<br>In Ruby, an array is a data type that holds an ordered collection of values.  The values in this case case be any type of object, even including other arrays (in the latter case we would consider the array to be "multi-dimensional").  Array values are associated with an index, where the first value in the array has the index zero; and the last value in an n-element array has the index (n-1).<br><br>
+What is an Iterator?<br>An iterator in Ruby is simply a method that repeatedly invokes a block of code.  Iterators are commonplace in loops, where a given task is to be carried out (i.e., iterated) a certain number of times or until a certain condition is met (i.e., number of desired iterations has been reached.)<br><br>
 What are hashes?<br>Hashes in ruby are collections of key-value pairs.  Instead of an index (as is used in an array), hashes use keys amd each key is assigned a corresponding value.  Within a given hash, the keys are unique; that is, each hash can use an individual key only once.  However, the values need not be unique; that is, whereas a given hash  can only use a key once, a value can be repeated as often as necessary.<br><br>
 What is a library?<br>A library in Ruby is a collection of source code used to accomplish tasks, many of which are commonplace in programming and others which may be less-often used.  They are useful to programmers because one may use files from a library to do what they need to get done rather than having to write the code themselves.  Most libraries are released in the form of a gem (also see next question) which themselves are governed by the package manager RubyGems.<br>  
 What is a gem?<br>A gem in Ruby is a self-contained structure that is used to distribute libraries and programs within the language.  From the command line, 'gem' can be used to install and manage gems.  An individual gem is an instance of the package manager RubyGems.<br>
