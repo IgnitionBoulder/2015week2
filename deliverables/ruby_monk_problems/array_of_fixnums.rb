@@ -1,3 +1,3 @@
-def array_of_fixnums?(array)
-  # Write your code here
+def array_of_fixnums1(array)
+
 end
