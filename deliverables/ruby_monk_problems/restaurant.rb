@@ -4,6 +4,10 @@ class Restaurant
   end
 
   def cost(*orders)
-    # your code here
+    orders.inject(0) do |total_cost, order|
+      total_cost + order.keys.inject(0) {|cost, key| cost + @menu[key]*order[key] }
+    end
   end
 end
+#where did "key" come from?
+#still unsure about what @ is with hashes
