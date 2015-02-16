@@ -40,7 +40,7 @@ What is an Iterator?<br>
 An iterator is a method that repeatedly invokes a block of code. 
 
 What are hashes?<br>
-hashes are collections of any object or data types. Unlike an array hashes don't use numeric indices that don't go in order from 0 to the length of the hash. Instead a hash uses a collection of key-value pairs.
+Hashes store related information by giving reusable labels to pieces of our data by using key value pairs. 
 
 What is a library?<br>
 A libraries are a collection of precomplied routines that a program can use.
