@@ -19,9 +19,9 @@ What are Classes?<br>
 What are Blocks?<br>
 What is an Array?<br>
 What is an Iterator?<br>
-What are hashes?<br>
-What is a library?<br>
-What is a gem?
+What are hashes?<br>Hashes in ruby are collections of key-value pairs.  Instead of an index (as is used in an array), hashes use keys amd each key is assigned a corresponding value.  Within a given hash, the keys are unique; that is, each hash can use an individual key only once.  However, the values need not be unique; that is, whereas a given hash  can only use a key once, a value can be repeated as often as necessary.<br>
+What is a library?<br>A library in Ruby is a collection of source code used to accomplish tasks, many of which are commonplace in programming and others which may be less-often used.  They are useful to programmers because one may use files from a library to do what they need to get done rather than having to write the code themselves.  Most libraries are released in the form of a gem (also see next question) which themselves are governed by the package manager RubyGems.<br>  
+What is a gem?<br>A gem in Ruby is a self-contained structure that is used to distribute libraries and programs within the language.  From the command line, 'gem' can be used to install and manage gems.  An individual gem is an instance of the package manager RubyGems.<br>
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
