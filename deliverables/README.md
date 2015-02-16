@@ -30,12 +30,12 @@ Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1<b
 ###Weekly Project
 You need to complete all the problems on the RubyMonk ([starting with this one](http://rubymonk.com/learning/books/1-ruby-primer/problems/9-calculator)) and upload them to your deliverables Github Repo in the RubyMonk folder. If you get stuck, refer to the GitHub information in the [Odin project’s walkthrough](http://www.theodinproject.com/web-development-101/html-css).
 
-Put each problem solution into the appropriate file in `ruby_monk_problems`
+Put each problem solution into the appropriate file in `ruby_monk_problems`<br>I have added each problem solution into the appropriate file in my deliverables/ruby_monk_problems folder.<br>
 
 ####Optional & Resources
- - Read and complete the [Ruby in 100 minutes guide](http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)
- - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)
+ - Read and complete the [Ruby in 100 minutes guide](http://tutorials.jumpstartlab.com/projects/ruby\_in\_100_minutes.html)<br>I read and completed the Ruby in 100 minutes guide on February 14, 2015.<br>
+ - [Ruby beginners guide](https://hackhands.com/beginners-guide-ruby/)<br>I read through the Ruby beginners guide on February 12, 2015.<br>
  - Do the first Ruby exercise (Bob) on [Exercism.io](http://exercism.io/) and respond to any
    feedback you receieve.  Provide a link to your submission on
-   Exercism.
+   Exercism.<br>I have visited the Exercism.io website but am still in the process of getting everything installed and so I have not yet been able to do the (Bob) exercise yet.<br>
 
