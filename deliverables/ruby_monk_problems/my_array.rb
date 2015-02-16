@@ -6,6 +6,10 @@ class MyArray
   end
 
   def sum(initial_value = 0)
-    # your code here
+    return array.inject(:+) + initial_value unless block_given?
+    sum = initial_value
+    array.each {|n| sum += yield(n) }
+    sum
+  end
   end
 end
