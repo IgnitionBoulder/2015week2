@@ -1,3 +1,4 @@
+#Didn't do
 class Color
   attr_reader :r, :g, :b
   def initialize(r, g, b)
