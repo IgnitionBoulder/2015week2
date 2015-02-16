@@ -1,3 +1,5 @@
 def exec_time(proc)
-  # your code here
+  start = time.now
+  proc.call
+  Time.now - start
 end
