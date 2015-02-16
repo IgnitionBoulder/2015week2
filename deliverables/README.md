@@ -23,7 +23,7 @@ What are hashes?<br>Hashes in ruby are collections of key-value pairs.  Instead 
 What is a library?<br>A library in Ruby is a collection of source code used to accomplish tasks, many of which are commonplace in programming and others which may be less-often used.  They are useful to programmers because one may use files from a library to do what they need to get done rather than having to write the code themselves.  Most libraries are released in the form of a gem (also see next question) which themselves are governed by the package manager RubyGems.<br>  
 What is a gem?<br>A gem in Ruby is a self-contained structure that is used to distribute libraries and programs within the language.  From the command line, 'gem' can be used to install and manage gems.  An individual gem is an instance of the package manager RubyGems.<br>
 
-Do the challenges at http://tryruby.org/levels/1/challenges/0.<br>I did these challenges on February 16, 2015.  The link I tried to use for my CodeSchool profile did not--it brought up the CodeSchool homepage.  I think there is an instruction on Slack on how to display the CodeSchool profile via LinkedIn; if I have time to do this before 6 today I will include this.<br>
+Do the challenges at http://tryruby.org/levels/1/challenges/0.<br>I did these challenges on February 16, 2015.  Here is a link to my CodeSchool report card: https://www.codeschool.com/users/albatross7817<br>
 
 Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1<br>I did not particularly care for the RubyMonk course and chose to complete the Ruby tutorial on CodeAcademy instead.  Here is a link to my CodeAcademy profile:<br>http://www.codecademy.com/albatross7817<br>
 
