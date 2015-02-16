@@ -1,5 +1,5 @@
 def kaprekar?(k)
-   no_of_digits = k.to_s.size
+  no_of_digits = k.to_s.size
   square = (k ** 2).to_s
   
   second_half = square[-no_of_digits..-1]
