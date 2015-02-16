@@ -1,3 +1,3 @@
-def array_of_fixnums?(array)
-  # Write your code here
+def non_duplicated_values(values)
+  values.find_all { |x| values.count(x) == 1 }
 end
