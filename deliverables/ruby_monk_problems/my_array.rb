@@ -6,6 +6,9 @@ class MyArray
   end
 
   def sum(initial_value = 0)
-    # your code here
+    return ___ unless block_given?
+    sum = initial_value
+    array.each {|x| sum += yield(x)}
+    sum
   end
 end
