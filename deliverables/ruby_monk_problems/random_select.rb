@@ -1,3 +1,5 @@
 def random_select(array, n)
-  # your code here
+  outarray = []
+  n.times { outarray << array.shuffle[0] }
+  return outarray
 end
