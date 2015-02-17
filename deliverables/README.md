@@ -14,28 +14,39 @@ Sign Up for Cloud9 and create a basic Rails project.
 ####Required
 
 What is an "interpreted" language?<br>  
-a language where the code is not in the native language of the machine but is interpreted by an installed program
+a language where the code is not in the native language of the machine but is interpreted by an installed program  
+
 What is IRB?<br>  
-a read-eval-print loop/interactive programming enviroment that can be used for testing Ruby code by executing commands from individual users
+a read-eval-print loop/interactive programming enviroment that can be used for testing Ruby code by executing commands from individual users  
+
 What are Objects?<br>  
-objects are the building blocks of ruby code.  They're kind of like nouns, in that adjectives and verbs can easily be turned in to nouns so that other nouns can interact with them.  So everything can be an object and objects do things to objects via methods.
+objects are the building blocks of ruby code.  They're kind of like nouns, in that adjectives and verbs can easily be turned in to nouns so that other nouns can interact with them.  So everything can be an object and objects do things to objects via methods.  
+
 What are Methods?<br>  
-methods are the way that objects interact with eachother
+methods are the way that objects interact with eachother  
+
 What are Classes?<br>  
-groups of object bundled together by funcionality or similar characteristics
+groups of object bundled together by funcionality or similar characteristics  
+
 What are Blocks?<br>  
 The only type of code in Ruby that is not an object.  It can't be stored in a variable. They are a way of grouping  
-statements and envoking methods in certain contexts
+statements and envoking methods in certain contexts  
+
 What is an Array?<br>  
-a list of elements
+a list of elements  
+
 What is an Iterator?<br>  
-a method that repeatedly envokes a block of code
+a method that repeatedly envokes a block of code  
+
 What are hashes?<br>  
-a collection of key value pairs, from which values can be retrieved by way of their keys.  They are often called associative  arrays or dictionaries as they are essentially lists of words(or keys) and defenitions (or values)
+a collection of key value pairs, from which values can be retrieved by way of their keys.  They are often called associative  arrays or dictionaries as they are essentially lists of words(or keys) and defenitions (or values)  
+
 What is a library?<br>  
-a collection of command line utilities that help increase Ruby functionality in a certain area
+a collection of command line utilities that help increase Ruby functionality in a certain area  
+
 What is a gem? 
-The main place where Ruby Libraries are hosted
+The main place where Ruby Libraries are hosted  
+
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
