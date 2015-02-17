@@ -44,7 +44,8 @@ a collection of key value pairs, from which values can be retrieved by way of th
 What is a library?<br>  
 a collection of command line utilities that help increase Ruby functionality in a certain area  
 
-What is a gem? 
+What is a gem?  
+
 The main place where Ruby Libraries are hosted  
 
 
