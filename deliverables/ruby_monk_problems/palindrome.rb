@@ -1,3 +1,4 @@
 def palindrome?(sentence)
-  # Write your code here
+  sentence_orig = sentence.delete(' ').downcase
+  sentence.delete(' ').downcase.reverse == sentence_orig
 end
