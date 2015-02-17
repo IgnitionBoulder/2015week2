@@ -1,3 +1,3 @@
 def sum_of_cubes(a, b)
-  # Write your code here
+  (a..b).inject(0) {|acc, iter| acc += iter**3} 
 end
