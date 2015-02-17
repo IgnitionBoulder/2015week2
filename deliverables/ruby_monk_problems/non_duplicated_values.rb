@@ -1,3 +1,3 @@
 def non_duplicated_values(values)
-  # Write your code here
+  values.find_all { |n| values.count(n) <= 1 }
 end
