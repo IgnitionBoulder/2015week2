@@ -6,6 +6,10 @@ class MyArray
   end
 
   def sum(initial_value = 0)
-    # your code here
+    if block_given?
+      array.inject{|acc,iter| acc += yield iter} + initial_value
+    else
+      array.inject{|acc, iter| acc += iter} + initial_value
+    end
   end
 end
