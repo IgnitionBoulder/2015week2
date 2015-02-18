@@ -1,8 +1,12 @@
 ##Week 2: Introduction to Ruby
 ###Intro to the Back End
 ####Required
-What is the difference between front- and back-end development?<br>
-Why do you need to install Ruby but not HTML/CSS?
+**What is the difference between front- and back-end development?**<br>
+Front end involves materials presented to a user. It is, for the most part, standardized to HTML for markup, CSS for presentation and JavaScript for scripting. Whatever we create in front-end has to be understood by a browser before being presented to a user. With back-end, however, we can run almost anything. Back-end involves working with servers, applications and databases in order to work with user input and information. 
+
+**Why do you need to install Ruby but not HTML/CSS?**<br>
+HTML/CSS simply live in the browser so no extra installation is required. With back-end languages such as Ruby, however, installation is required since they involve working, as mentioned earlies, with things like servers and databases that don't simply live in browser.
+
 
 Read the [intro to back end on the Odin Project](http://www.theodinproject.com/web-development-101/introduction-to-the-back-end) description, and the [What is: Back-end web development](http://blog.generalassemb.ly/what-is-back-end-web-development/) blog post.
 
