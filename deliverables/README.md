@@ -40,7 +40,7 @@ An Array is a series of objects which are of the same size and type. Each object
 An Iterator is an object that enables traversing of containers, particularly lists.
 
 **What are hashes?**<br>
-Hashes store related information by giving reusable labels to pieces of our data.
+Hashes store related information by giving reusable labels to pieces of our data. Hashes simply pair up two things: a key and a value. 
 
 **What is a library?**<br>
 A library is a collection of precompiled routines/modules that a program can use. These routines/modules are stored in object format.
