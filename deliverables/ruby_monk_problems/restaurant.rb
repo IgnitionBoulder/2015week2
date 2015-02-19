@@ -4,6 +4,8 @@ class Restaurant
   end
 
   def cost(*orders)
-    # your code here
+    orders.inject(0) do |sum, ord|
+    	sum + ord.keys.inject(0) {|cost, key| cost + ord[key]*@menu[key]}
+    end
   end
 end

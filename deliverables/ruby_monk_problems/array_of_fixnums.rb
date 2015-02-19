@@ -1,3 +1,7 @@
 def array_of_fixnums?(array)
-  # Write your code here
+  array.each do |x|
+    if !x.is_a? (Fixnum)
+      return false
+    end
+  end
 end

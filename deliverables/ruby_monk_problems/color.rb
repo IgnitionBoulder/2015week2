@@ -7,18 +7,20 @@ class Color
   end
 
   def brightness_index
-    # your code here
+    (299*r + 587*g + 114*b) / 1000   #why not @r, @g and @b
   end
 
   def brightness_difference(another_color)
-    #your code here
+    (brightness_index - another_color.brightness_index).abs
   end
 
   def hue_difference(another_color)
-    #your code here
+    (r - another_color.r).abs + (g - another_color.g).abs + (b - another_color.b).abs
   end
 
   def enough_contrast?(another_color)
-    # your code here
+    if brightness_difference(another_color) > 125 && hue_difference(another_color) > 500
+      return true
   end
+  return false   #Necessary?
 end
