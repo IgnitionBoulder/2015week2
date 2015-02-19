@@ -11,17 +11,38 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br>
-What is IRB?<br>
-What are Objects?<br>
-What are Methods?<br>
-What are Classes?<br>
-What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
-What are hashes?<br>
-What is a library?<br>
-What is a gem?
+**What is an "interpreted" language?<br>**  
+Interpreted languages are programming languages that will execute instructions without having to tranlate it into machine code.
+
+**What is IRB?<br>**  
+An IRB is a Ruby Shell that wil interact and return execute ruby in live time.
+
+**What are Objects?<br>**  
+An object is a variable that can be manipulated in OOP, and is an isntance of a class.
+
+**What are Methods?<br>**  
+This is a function that manipulates an object or class.
+
+**What are Classes?<br>**  
+A class is a set of functions, often containing many objects.
+
+**What are Blocks?<br>**  
+A block is a chunk of code within {braces} or "do" and "end".  This allows you to group methods into one action.
+
+**What is an Array?<br>**  
+An array is a collection of objects.  Objects are ordered/indexed so that they can be called upon later.
+
+**What is an Iterator?<br>**  
+Iterators are methods that can be executed on collections, or objects that store a group of data members. 
+
+**What are hashes?<br>**  
+Hashes are key-value pairs.  They are not stored via indexing, as an array would be.  Essentially, this is a list pairing the "key" object with a correlating "value" property.
+
+**What is a library?<br>**  
+This is a collection of methods/commands that can be downloaded, or come with a program, such as Ruby's standard library.
+
+**What is a gem?**  
+Gems are how third party libraries are released and shared.
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
