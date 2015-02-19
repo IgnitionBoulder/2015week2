@@ -24,16 +24,28 @@ What are Objects?
 Objects are instances of the class. They are created using methods under a certain class. 
 
 What are Methods?
-
+Methods are classes you create that have objects in them. Ruby methods are used to bundle one or more repeatable statements into a single unit. Method names should begin with a lowercase letter. If you begin a method name with an uppercase letter, Ruby might think that it is a constant and hence can parse the call incorrectly.
 What are Classes?
 A class is the blueprint from which individual objects are created
 
-What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
-What are hashes?<br>
-What is a library?<br>
+What are Blocks?
+Blocks are a way of grouping statements. Can be done with braces or with 'do and end'
+
+What is an Array?
+Ruby arrays are ordered, integer-indexed collections of any object. Each element in an array is associated with and referred to by an index.Ruby arrays can hold objects such as String, Integer, Fixnum, Hash, Symbol, even other Array objects. 
+
+What is an Iterator?
+Iterators are nothing but methods supported by collections. Objects that store a group of data members are called collections. In Ruby, arrays and hashes can be termed collections. Iterators return all the elements of a collection, one after the other. The each iterator returns all the elements of an array or a hash.
+
+
+What are hashes?
+A Hash is a collection of key-value pairs like this: "employee" => "salary". It is similar to an Array, except that indexing is done via arbitrary keys of any object type, not an integer index.
+
+What is a library?
+Libraries are archives of code that people can install and use to code. Basically adding a larger dictionary to there iterator. 
+
 What is a gem?
+Ruby gems is a packaging system designed to facilitate the creation, sharing and installation of libraries. A gem is just installing a new library. 
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
