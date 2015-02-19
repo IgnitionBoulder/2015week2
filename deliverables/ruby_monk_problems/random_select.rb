@@ -1,3 +1,3 @@
 def random_select(array, n)
-  # your code here
+  [] << array[rand(n)] << array[rand(n)]
 end

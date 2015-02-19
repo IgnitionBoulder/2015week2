@@ -11,17 +11,17 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br> 
-What is IRB?<br>
-What are Objects?<br> Everything: variables, numbers, arrays, other than things like blocks.
+What is an "interpreted" language?<br> It is a language that doesn't need a compiler to read and write.
+What is IRB?<br> Interactive Ruby Shell, it allows you to write and test Ruby from a terminal.
+What are Objects?<br> A data structure that makes up nearly everything: variables, numbers, arrays, lambdas, procs, other than things like blocks.
 What are Methods?<br> What objects call upon in other objects to communicate with each other.
-What are Classes?<br> Classes are structures that hold behavior and state
-What are Blocks?<br>A block is a contained bit of code that can't be stored in a variable and isn't an object.<br>
-What is an Array?<br> A set of values contained within an array that can be indexed.
+What are Classes?<br> Classes are structures that hold behavior and state.
+What are Blocks?<br>A block is a contained bit of code that can't be stored in a variable, but can be stored in a proc and lambda, can only be called upon once per argument, and isn't an object.<br>
+What is an Array?<br> An array is used to store a list of values in a single variable, indices start at 0, can store numbers, strings, booleans, other arrays.
 What is an Iterator?<br> Something that can be changed within a loop which signifies what instance the loop is at. 
-What are hashes?<br> A set of keys and values similar to a dictionary with the word being the key and the value the definition.
-What is a library?<br>
-What is a gem?
+What are hashes?<br> A set of keys and values similar to a dictionary with the word being the key and the value the definition unlike in arrays, the keys can be things other than numbers. They use {} instead of [].
+What is a library?<br>A library is something you can require in your program that includes collections of classes and methods.
+What is a gem?<br> A gem is a software package that contains a package Ruby application or library to help with the functionality of your code and the code of other Ruby users.
 
 Do the challenges at http://tryruby.org/levels/1/challenges/0.
 
