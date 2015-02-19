@@ -1,3 +1,4 @@
 def palindrome?(sentence)
-  # Write your code here
+  downcase_sentence = sentence.downcase.gsub(" ", "")
+  downcase_sentence == downcase_sentence.reverse
 end

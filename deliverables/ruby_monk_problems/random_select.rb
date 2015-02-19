@@ -1,3 +1,7 @@
 def random_select(array, n)
-  # your code here
+  res = []
+  n.times do 
+    res << array[rand(array.length)]
+  end
+  return res
 end

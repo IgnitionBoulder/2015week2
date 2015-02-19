@@ -4,6 +4,7 @@ class Calculator
   end
 
   def subtract(a, b)
-   # your code here
+  a -b 
   end
 end
+
