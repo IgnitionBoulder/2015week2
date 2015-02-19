@@ -11,15 +11,15 @@ Sign Up for Cloud9 and create a basic Rails project.
 ###Intro to Ruby
 ####Required
 
-What is an "interpreted" language?<br>
+What is an "interpreted" language?<br> 
 What is IRB?<br>
-What are Objects?<br>
-What are Methods?<br>
-What are Classes?<br>
-What are Blocks?<br>
-What is an Array?<br>
-What is an Iterator?<br>
-What are hashes?<br>
+What are Objects?<br> Everything: variables, numbers, arrays, other than things like blocks.
+What are Methods?<br> What objects call upon in other objects to communicate with each other.
+What are Classes?<br> Classes are structures that hold behavior and state
+What are Blocks?<br>A block is a contained bit of code that can't be stored in a variable and isn't an object.<br>
+What is an Array?<br> A set of values contained within an array that can be indexed.
+What is an Iterator?<br> Something that can be changed within a loop which signifies what instance the loop is at. 
+What are hashes?<br> A set of keys and values similar to a dictionary with the word being the key and the value the definition.
 What is a library?<br>
 What is a gem?
 
