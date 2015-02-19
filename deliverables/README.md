@@ -49,7 +49,8 @@ What is a gem?
 The main place where Ruby Libraries are hosted  
 
 
-Do the challenges at http://tryruby.org/levels/1/challenges/0.
+Do the challenges at http://tryruby.org/levels/1/challenges/0.  
+https://www.codeschool.com/account
 
 Do the RubyMonk “Ruby Primer” course: http://rubymonk.com/learning/books/1
 
