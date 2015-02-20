@@ -78,13 +78,15 @@ What are Blocks?<br>
 A block is a section of code contained within braces.  
 
 What is an Array?<br>
-An array is an ordered, integer-indexed collection of any object.  
+An array is an unordered, integer-indexed collection.  
+ex: array = [1, 2, 3, 4]  to access: arr[1..2]
 
 What is an Iterator?<br>
 An iterator is a method that can invoke a block of code.  
 
 What are hashes?<br>
 A hash is a collection of key-value pairs. Hashes (sometimes known as associative arrays or dictionaries) are similar to arrays, in that they are indexed collectives of object references.  
+ex: hash = {a:1, b:30} (all keys have to be different). to access: h[:a] = 5
 
 What is a library?<br>
 A library is a tool designed to easily manage the installation of gems, and a server for distributing them.  
